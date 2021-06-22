@@ -14,7 +14,7 @@ Welcome to join with The Cocktail!
 5. Run the Python file, and the data will display on the LINE Bot.
 
 # Details of the Approach
-**1. Build up LINE Bot with Flask and ngrok.**
+**1. Build up LINE Bot with Flask.**
   * Before building up the LINE Bot, we need to download and import necessary libraries, such as Flask, line-bot-sdk, etc.
      * Flask
        
